@@ -1,0 +1,34 @@
+#logo{
+    height: 35px;
+    width: 100px;
+}
+
+.btn-login{
+    width: 120px;
+    height: 39px;
+    border-radius:50px;
+    background-color:#eb5757;
+    color: #ffff;
+    border: none;
+
+}
+.nav-spc{
+    position: relative;
+margin-left: 200px ;
+
+}
+
+.img-fundo {
+width: 650px;
+height: 700px;
+}
+
+
+.caixa-text {
+ 
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-end;
+
+}  
